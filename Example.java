@@ -2,6 +2,6 @@ class Example
 {
 	public static void main(String[] args)
 	{
-		IO.println("JAVA 25");	
+		System.out.println("JAVA 25");	
 	}
 }
